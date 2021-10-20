@@ -1,0 +1,10 @@
+{
+    "development" : {
+    "host" : "127.0.0.1",
+    "username" : "root",
+    "password" : "@dldhfsu0109",
+    "port" : "3305",
+    "database" : "CCTV",
+    "dialect" : "mysql"
+    }
+}
